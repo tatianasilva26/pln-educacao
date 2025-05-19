@@ -1,0 +1,3447 @@
+{
+    "documentos_processados": [
+        {
+            "id": "1XschuJb1UDyozZpW-xZei7otOdOdpAmF",
+            "nome_arquivo": "doc_1.pdf",
+            "estatisticas": {
+                "num_sentencas": 377,
+                "num_tokens": 8590,
+                "tokens_por_sentenca": 22.785145888594165,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 552
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 493
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 338
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 315
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 219
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 212
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 195
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 146
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 126
+                    },
+                    {
+                        "token": "um",
+                        "frequencia": 100
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "33-35",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "AI",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Tools",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "k-12",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Edu-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "cação",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Scoping",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Journal",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Computers",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "1-39",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1578,
+                    "VERB": 733,
+                    "ADP": 1035,
+                    "ADJ": 429,
+                    "ADV": 161,
+                    "PRON": 130,
+                    "DET": 823,
+                    "CCONJ": 240,
+                    "NUM": 213,
+                    "PROPN": 1109
+                },
+                "num_substantivos": 1578,
+                "num_verbos": 733,
+                "num_preposicoes": 1035
+            },
+            "analise_linguistica": {
+                "num_tokens": 8590,
+                "num_lemas": 8590,
+                "num_dependencias": 8590
+            }
+        },
+        {
+            "id": "1-RFpN7QFepPAUecHXUqPAMhfffBztM6x",
+            "nome_arquivo": "doc_2.pdf",
+            "estatisticas": {
+                "num_sentencas": 315,
+                "num_tokens": 7549,
+                "tokens_por_sentenca": 23.965079365079365,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 484
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 374
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 304
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 270
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 267
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 245
+                    },
+                    {
+                        "token": "¸",
+                        "frequencia": 228
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 156
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 140
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 115
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "teamwork",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "model",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "agile",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "development",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "27(2):56",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Instructor",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "guide",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Imbrie",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Lin",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "S4C–1–S4C–5.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1230,
+                    "VERB": 529,
+                    "ADP": 924,
+                    "ADJ": 551,
+                    "ADV": 110,
+                    "PRON": 65,
+                    "DET": 415,
+                    "CCONJ": 174,
+                    "NUM": 267,
+                    "PROPN": 1628
+                },
+                "num_substantivos": 1230,
+                "num_verbos": 529,
+                "num_preposicoes": 924
+            },
+            "analise_linguistica": {
+                "num_tokens": 7549,
+                "num_lemas": 7549,
+                "num_dependencias": 7549
+            }
+        },
+        {
+            "id": "1wth9iGEtAzPcBH68KY9N5Y0QMDJ5n3B8",
+            "nome_arquivo": "doc_3.pdf",
+            "estatisticas": {
+                "num_sentencas": 362,
+                "num_tokens": 13261,
+                "tokens_por_sentenca": 36.63259668508287,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 5705
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 386
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 360
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 265
+                    },
+                    {
+                        "token": "\"",
+                        "frequencia": 186
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 180
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 147
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 147
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 122
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 114
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "26",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "5733–5778",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Shifting",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "healthcare",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "development",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "deployment",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Nature",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Biomedical",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Engineering",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "1330–1345.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1636,
+                    "VERB": 561,
+                    "ADP": 1343,
+                    "ADJ": 327,
+                    "ADV": 195,
+                    "PRON": 49,
+                    "DET": 417,
+                    "CCONJ": 149,
+                    "NUM": 385,
+                    "PROPN": 1075
+                },
+                "num_substantivos": 1636,
+                "num_verbos": 561,
+                "num_preposicoes": 1343
+            },
+            "analise_linguistica": {
+                "num_tokens": 13261,
+                "num_lemas": 13261,
+                "num_dependencias": 13261
+            }
+        },
+        {
+            "id": "11MXRfsuBsDaTyqirMCMaUYrmJca9x0eI",
+            "nome_arquivo": "doc_4.pdf",
+            "estatisticas": {
+                "num_sentencas": 465,
+                "num_tokens": 8400,
+                "tokens_por_sentenca": 18.06451612903226,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 798
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 468
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 325
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 311
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 233
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 160
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 141
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 125
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 108
+                    },
+                    {
+                        "token": "para",
+                        "frequencia": 89
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Toolkit",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Process",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "kit",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Bulletin",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "36(1):",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "135-139",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Friedman",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Universal",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "8(3):",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "197-227",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1372,
+                    "VERB": 440,
+                    "ADP": 956,
+                    "ADJ": 422,
+                    "ADV": 97,
+                    "PRON": 53,
+                    "DET": 493,
+                    "CCONJ": 247,
+                    "NUM": 278,
+                    "PROPN": 1759
+                },
+                "num_substantivos": 1372,
+                "num_verbos": 440,
+                "num_preposicoes": 956
+            },
+            "analise_linguistica": {
+                "num_tokens": 8400,
+                "num_lemas": 8400,
+                "num_dependencias": 8400
+            }
+        },
+        {
+            "id": "19LRt4ZV5of8Dqv8sw39NbduIUYQLrDSL",
+            "nome_arquivo": "doc_5.pdf",
+            "estatisticas": {
+                "num_sentencas": 301,
+                "num_tokens": 7459,
+                "tokens_por_sentenca": 24.780730897009967,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 530
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 344
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 342
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 278
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 195
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 152
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 119
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 112
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 107
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 91
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "practices",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "initial",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "years",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "elementary",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "school",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "possibilities",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "after",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "isolation",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Formação",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "7(1).XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1422,
+                    "VERB": 626,
+                    "ADP": 1044,
+                    "ADJ": 307,
+                    "ADV": 131,
+                    "PRON": 133,
+                    "DET": 645,
+                    "CCONJ": 179,
+                    "NUM": 194,
+                    "PROPN": 904
+                },
+                "num_substantivos": 1422,
+                "num_verbos": 626,
+                "num_preposicoes": 1044
+            },
+            "analise_linguistica": {
+                "num_tokens": 7459,
+                "num_lemas": 7459,
+                "num_dependencias": 7459
+            }
+        },
+        {
+            "id": "1P3Jou4cRrUMvI6IEMx2uubplguKmthm6",
+            "nome_arquivo": "doc_6.pdf",
+            "estatisticas": {
+                "num_sentencas": 351,
+                "num_tokens": 6503,
+                "tokens_por_sentenca": 18.527065527065528,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 507
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 335
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 238
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 229
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 159
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 116
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 116
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 114
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 105
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 71
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "relação",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "informação",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Revista",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Insignare",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Scientia",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "RIS",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "jun",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "John-David",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "robótica",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Blucher",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1123,
+                    "VERB": 450,
+                    "ADP": 817,
+                    "ADJ": 376,
+                    "ADV": 95,
+                    "PRON": 78,
+                    "DET": 448,
+                    "CCONJ": 178,
+                    "NUM": 316,
+                    "PROPN": 1000
+                },
+                "num_substantivos": 1123,
+                "num_verbos": 450,
+                "num_preposicoes": 817
+            },
+            "analise_linguistica": {
+                "num_tokens": 6503,
+                "num_lemas": 6503,
+                "num_dependencias": 6503
+            }
+        },
+        {
+            "id": "1BALTGIPAmfYvMqxe0Vajnf_6KRa_Q9vW",
+            "nome_arquivo": "doc_7.pdf",
+            "estatisticas": {
+                "num_sentencas": 375,
+                "num_tokens": 6794,
+                "tokens_por_sentenca": 18.117333333333335,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 2417
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 340
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 238
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 195
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 114
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 96
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 71
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 63
+                    },
+                    {
+                        "token": "NA",
+                        "frequencia": 62
+                    },
+                    {
+                        "token": "Brasileiro",
+                        "frequencia": 60
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Thirdedition",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Mason",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "AtomicDog",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "CengageLearning",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "UNESCO(2022).",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "K-12AIcurricula",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "amappingofgovernment-endorsedAIcurricula",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Retrieved06/06/2022fromhttps://unesdoc.unesco.org",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "ark:/48223",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "pf0000380602XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 930,
+                    "VERB": 216,
+                    "ADP": 560,
+                    "ADJ": 190,
+                    "ADV": 104,
+                    "PRON": 5,
+                    "DET": 93,
+                    "CCONJ": 93,
+                    "NUM": 409,
+                    "PROPN": 819
+                },
+                "num_substantivos": 930,
+                "num_verbos": 216,
+                "num_preposicoes": 560
+            },
+            "analise_linguistica": {
+                "num_tokens": 6794,
+                "num_lemas": 6794,
+                "num_dependencias": 6794
+            }
+        },
+        {
+            "id": "17DSZA17USbsvqE-kmDb8R0v4dyJaqgZb",
+            "nome_arquivo": "doc_8.pdf",
+            "estatisticas": {
+                "num_sentencas": 180,
+                "num_tokens": 3092,
+                "tokens_por_sentenca": 17.177777777777777,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 403
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 337
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 186
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 89
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 85
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 70
+                    },
+                    {
+                        "token": "d",
+                        "frequencia": 60
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 56
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 56
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 53
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "evolution-notation-system",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "WorldFederationoftheDeaf(2003),PositionPaperregardingtheUnitedNationsConventionontheRightsofPeoplewithDisabilities",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "UNEnable",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://www.un.org",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "esa",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "socdev",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "enable",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "rights",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "contrib-wfd",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": ".htmXIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 325,
+                    "VERB": 80,
+                    "ADP": 308,
+                    "ADJ": 122,
+                    "ADV": 57,
+                    "PRON": 20,
+                    "DET": 117,
+                    "CCONJ": 91,
+                    "NUM": 129,
+                    "PROPN": 705
+                },
+                "num_substantivos": 325,
+                "num_verbos": 80,
+                "num_preposicoes": 308
+            },
+            "analise_linguistica": {
+                "num_tokens": 3092,
+                "num_lemas": 3092,
+                "num_dependencias": 3092
+            }
+        },
+        {
+            "id": "1AFPqaYgGu_PZakm5R8_S1pBkbnhu7HJ1",
+            "nome_arquivo": "doc_9.pdf",
+            "estatisticas": {
+                "num_sentencas": 317,
+                "num_tokens": 7802,
+                "tokens_por_sentenca": 24.61198738170347,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 489
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 455
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 388
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 275
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 198
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 179
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 160
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 121
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 119
+                    },
+                    {
+                        "token": "em",
+                        "frequencia": 99
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Sage",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Open",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "12(1",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "21582440211068474",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "10.1177/21582440211068474",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "P",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "ticas",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "workshops",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "1236",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://doi.org/10.5753/cbie.wcbie.2015.1236",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1516,
+                    "VERB": 587,
+                    "ADP": 1122,
+                    "ADJ": 405,
+                    "ADV": 131,
+                    "PRON": 92,
+                    "DET": 658,
+                    "CCONJ": 226,
+                    "NUM": 223,
+                    "PROPN": 976
+                },
+                "num_substantivos": 1516,
+                "num_verbos": 587,
+                "num_preposicoes": 1122
+            },
+            "analise_linguistica": {
+                "num_tokens": 7802,
+                "num_lemas": 7802,
+                "num_dependencias": 7802
+            }
+        },
+        {
+            "id": "11zJcFbm-UrtSBDSOCGyt4UTnipRmykB4",
+            "nome_arquivo": "doc_10.pdf",
+            "estatisticas": {
+                "num_sentencas": 180,
+                "num_tokens": 3490,
+                "tokens_por_sentenca": 19.38888888888889,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 962
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 259
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 201
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 92
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 66
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 63
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 50
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 49
+                    },
+                    {
+                        "token": "Brasileiro",
+                        "frequencia": 48
+                    },
+                    {
+                        "token": "Informática",
+                        "frequencia": 48
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "meaning",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "andidentity",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "E.(2010).Communitiesofpracticeandsociallearningsystems",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "thecareerofaconcept",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "EmSociallearningsystemsandcommunitiesofpractice",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "páginas179–198.Springer",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "WU",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Jianguo",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Improvingthewritingofresearchpapers",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "IMRADandbeyond.2011.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 469,
+                    "VERB": 143,
+                    "ADP": 276,
+                    "ADJ": 113,
+                    "ADV": 43,
+                    "PRON": 16,
+                    "DET": 97,
+                    "CCONJ": 57,
+                    "NUM": 130,
+                    "PROPN": 478
+                },
+                "num_substantivos": 469,
+                "num_verbos": 143,
+                "num_preposicoes": 276
+            },
+            "analise_linguistica": {
+                "num_tokens": 3490,
+                "num_lemas": 3490,
+                "num_dependencias": 3490
+            }
+        },
+        {
+            "id": "1Wn84a43rimFMilx5tz4UJKrTmxwHlzR2",
+            "nome_arquivo": "doc_11.pdf",
+            "estatisticas": {
+                "num_sentencas": 326,
+                "num_tokens": 7869,
+                "tokens_por_sentenca": 24.13803680981595,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 476
+                    },
+                    {
+                        "token": " ",
+                        "frequencia": 458
+                    },
+                    {
+                        "token": "\n",
+                        "frequencia": 400
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 324
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 208
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 183
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 182
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 140
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 120
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 108
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Forum",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Impact",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Courseware",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Developing",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Countries",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "report",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "availab",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "le",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://unesdoc.unesco.org/ark:/48223/pf0000128515",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://search.yahoo.com",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1070,
+                    "VERB": 439,
+                    "ADP": 853,
+                    "ADJ": 290,
+                    "ADV": 92,
+                    "PRON": 116,
+                    "DET": 418,
+                    "CCONJ": 186,
+                    "NUM": 327,
+                    "PROPN": 1622
+                },
+                "num_substantivos": 1070,
+                "num_verbos": 439,
+                "num_preposicoes": 853
+            },
+            "analise_linguistica": {
+                "num_tokens": 7869,
+                "num_lemas": 7869,
+                "num_dependencias": 7869
+            }
+        },
+        {
+            "id": "1CJ_9iHaQgTymhl-q1FuVmUjB0Fokj5Vi",
+            "nome_arquivo": "doc_12.pdf",
+            "estatisticas": {
+                "num_sentencas": 542,
+                "num_tokens": 12360,
+                "tokens_por_sentenca": 22.804428044280442,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 756
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 604
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 419
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 401
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 375
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 296
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 280
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 265
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 257
+                    },
+                    {
+                        "token": "¸",
+                        "frequencia": 250
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "effects",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "mnemonic",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "keyword",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "method",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "semantic",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "publisher",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "l2",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "idiom",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "English",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "12(1):31–60.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 2098,
+                    "VERB": 888,
+                    "ADP": 1272,
+                    "ADJ": 865,
+                    "ADV": 200,
+                    "PRON": 118,
+                    "DET": 754,
+                    "CCONJ": 303,
+                    "NUM": 438,
+                    "PROPN": 2395
+                },
+                "num_substantivos": 2098,
+                "num_verbos": 888,
+                "num_preposicoes": 1272
+            },
+            "analise_linguistica": {
+                "num_tokens": 12360,
+                "num_lemas": 12360,
+                "num_dependencias": 12360
+            }
+        },
+        {
+            "id": "1uc2gBvbu8rwCpCoDOvGjmt5WWOu1Z7nb",
+            "nome_arquivo": "doc_13.pdf",
+            "estatisticas": {
+                "num_sentencas": 431,
+                "num_tokens": 8324,
+                "tokens_por_sentenca": 19.31322505800464,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 631
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 382
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 382
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 320
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 165
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 164
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 142
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 122
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 116
+                    },
+                    {
+                        "token": "para",
+                        "frequencia": 95
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "statistics",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "pearson",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Boston",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "MA",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Attaining",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "social",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "cognitive",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "perspective",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Handbook",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "13–39",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1342,
+                    "VERB": 688,
+                    "ADP": 992,
+                    "ADJ": 391,
+                    "ADV": 218,
+                    "PRON": 209,
+                    "DET": 545,
+                    "CCONJ": 169,
+                    "NUM": 332,
+                    "PROPN": 1282
+                },
+                "num_substantivos": 1342,
+                "num_verbos": 688,
+                "num_preposicoes": 992
+            },
+            "analise_linguistica": {
+                "num_tokens": 8324,
+                "num_lemas": 8324,
+                "num_dependencias": 8324
+            }
+        },
+        {
+            "id": "1HwspF-Xgeu1oV-59HiXCYuaeaNaf21yU",
+            "nome_arquivo": "doc_14.pdf",
+            "estatisticas": {
+                "num_sentencas": 351,
+                "num_tokens": 8059,
+                "tokens_por_sentenca": 22.96011396011396,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 575
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 497
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 302
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 269
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 176
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 155
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 147
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 125
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 105
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 103
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Grade",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Monitoring",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "System",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Colombian",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Robotics",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Automation",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "CCRA",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "1–5",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "978-1-5386-8464-1",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://ieeexplore.ieee.org/document/8588144/>.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1341,
+                    "VERB": 556,
+                    "ADP": 1015,
+                    "ADJ": 346,
+                    "ADV": 109,
+                    "PRON": 74,
+                    "DET": 462,
+                    "CCONJ": 136,
+                    "NUM": 386,
+                    "PROPN": 1429
+                },
+                "num_substantivos": 1341,
+                "num_verbos": 556,
+                "num_preposicoes": 1015
+            },
+            "analise_linguistica": {
+                "num_tokens": 8059,
+                "num_lemas": 8059,
+                "num_dependencias": 8059
+            }
+        },
+        {
+            "id": "1Hm7DOXhFFBMIc74IvOtZqU9RKT7qNcHK",
+            "nome_arquivo": "doc_15.pdf",
+            "estatisticas": {
+                "num_sentencas": 534,
+                "num_tokens": 10861,
+                "tokens_por_sentenca": 20.33895131086142,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 653
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 586
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 470
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 389
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 353
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 260
+                    },
+                    {
+                        "token": "˜",
+                        "frequencia": 244
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 173
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 161
+                    },
+                    {
+                        "token": "¸ao",
+                        "frequencia": 161
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Salunke",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Chaskar",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Telavane",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Yadav",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "E-braille-a",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "22nd",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "National",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Communication",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "NCC",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://ieeexplore.ieee.org/document/7561162",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1940,
+                    "VERB": 606,
+                    "ADP": 1391,
+                    "ADJ": 851,
+                    "ADV": 88,
+                    "PRON": 135,
+                    "DET": 517,
+                    "CCONJ": 359,
+                    "NUM": 459,
+                    "PROPN": 2070
+                },
+                "num_substantivos": 1940,
+                "num_verbos": 606,
+                "num_preposicoes": 1391
+            },
+            "analise_linguistica": {
+                "num_tokens": 10861,
+                "num_lemas": 10861,
+                "num_dependencias": 10861
+            }
+        },
+        {
+            "id": "1xWxy-ki2ipwDLYD4I0fzWtT9x9NNo3Zh",
+            "nome_arquivo": "doc_16.pdf",
+            "estatisticas": {
+                "num_sentencas": 263,
+                "num_tokens": 5955,
+                "tokens_por_sentenca": 22.6425855513308,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 305
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 257
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 250
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 227
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 137
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 107
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 100
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 100
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 76
+                    },
+                    {
+                        "token": " ",
+                        "frequencia": 76
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Journal",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Engineering",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Education",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Transformations",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "v.",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "30",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Issue",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "ges",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "-6",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Sciresol",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 982,
+                    "VERB": 383,
+                    "ADP": 782,
+                    "ADJ": 275,
+                    "ADV": 107,
+                    "PRON": 67,
+                    "DET": 372,
+                    "CCONJ": 195,
+                    "NUM": 205,
+                    "PROPN": 1066
+                },
+                "num_substantivos": 982,
+                "num_verbos": 383,
+                "num_preposicoes": 782
+            },
+            "analise_linguistica": {
+                "num_tokens": 5955,
+                "num_lemas": 5955,
+                "num_dependencias": 5955
+            }
+        },
+        {
+            "id": "1piBg1AidZjDnsPl_4thMxUELEklyo2t4",
+            "nome_arquivo": "doc_17.pdf",
+            "estatisticas": {
+                "num_sentencas": 417,
+                "num_tokens": 11045,
+                "tokens_por_sentenca": 26.486810551558754,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 680
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 616
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 492
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 375
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 319
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 274
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 236
+                    },
+                    {
+                        "token": "¸",
+                        "frequencia": 205
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 193
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 188
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "2006–2016",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Hsiang",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "C.-y",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Roark",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Potential",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "ethics",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "algorithm",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Tu-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "torial",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "ACM.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 2024,
+                    "VERB": 775,
+                    "ADP": 1321,
+                    "ADJ": 716,
+                    "ADV": 137,
+                    "PRON": 93,
+                    "DET": 567,
+                    "CCONJ": 279,
+                    "NUM": 321,
+                    "PROPN": 2274
+                },
+                "num_substantivos": 2024,
+                "num_verbos": 775,
+                "num_preposicoes": 1321
+            },
+            "analise_linguistica": {
+                "num_tokens": 11045,
+                "num_lemas": 11045,
+                "num_dependencias": 11045
+            }
+        },
+        {
+            "id": "18ge6TWOoFS8sVLWII8klOwliU7HA6NUA",
+            "nome_arquivo": "doc_18.pdf",
+            "estatisticas": {
+                "num_sentencas": 247,
+                "num_tokens": 9030,
+                "tokens_por_sentenca": 36.558704453441294,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 574
+                    },
+                    {
+                        "token": "\n",
+                        "frequencia": 515
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 416
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 214
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 209
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 199
+                    },
+                    {
+                        "token": "que",
+                        "frequencia": 161
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 132
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 121
+                    },
+                    {
+                        "token": "da",
+                        "frequencia": 121
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "B.",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "On",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "complexity",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "computing",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Advances",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Science",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "pages",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "555",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "566",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Publishing",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1698,
+                    "VERB": 677,
+                    "ADP": 1268,
+                    "ADJ": 446,
+                    "ADV": 232,
+                    "PRON": 223,
+                    "DET": 664,
+                    "CCONJ": 255,
+                    "NUM": 244,
+                    "PROPN": 1005
+                },
+                "num_substantivos": 1698,
+                "num_verbos": 677,
+                "num_preposicoes": 1268
+            },
+            "analise_linguistica": {
+                "num_tokens": 9030,
+                "num_lemas": 9030,
+                "num_dependencias": 9030
+            }
+        },
+        {
+            "id": "1kU7-hrzRkHW_y6X1rmS-VZV882GhYb86",
+            "nome_arquivo": "doc_19.pdf",
+            "estatisticas": {
+                "num_sentencas": 417,
+                "num_tokens": 10515,
+                "tokens_por_sentenca": 25.215827338129497,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 681
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 467
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 412
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 407
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 340
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 334
+                    },
+                    {
+                        "token": "¸",
+                        "frequencia": 328
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 237
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 176
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 128
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "N.",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Authentic",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "team-based",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "software",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "engineering",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "projects",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Software",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Engineering",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "71–81.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 2005,
+                    "VERB": 857,
+                    "ADP": 1250,
+                    "ADJ": 854,
+                    "ADV": 182,
+                    "PRON": 119,
+                    "DET": 657,
+                    "CCONJ": 279,
+                    "NUM": 242,
+                    "PROPN": 1914
+                },
+                "num_substantivos": 2005,
+                "num_verbos": 857,
+                "num_preposicoes": 1250
+            },
+            "analise_linguistica": {
+                "num_tokens": 10515,
+                "num_lemas": 10515,
+                "num_dependencias": 10515
+            }
+        },
+        {
+            "id": "1TlpV42qfBf-lO76iymx4OQRFE03nV0qJ",
+            "nome_arquivo": "doc_20.pdf",
+            "estatisticas": {
+                "num_sentencas": 362,
+                "num_tokens": 7618,
+                "tokens_por_sentenca": 21.044198895027623,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 522
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 468
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 321
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 312
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 179
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 152
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 137
+                    },
+                    {
+                        "token": "do",
+                        "frequencia": 101
+                    },
+                    {
+                        "token": "da",
+                        "frequencia": 85
+                    },
+                    {
+                        "token": "que",
+                        "frequencia": 85
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "load",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "computer-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "supported",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "collaborative",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "carga",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "colaborativa",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Internet",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Higher",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "42:",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "13-24",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1646,
+                    "VERB": 612,
+                    "ADP": 1128,
+                    "ADJ": 356,
+                    "ADV": 97,
+                    "PRON": 115,
+                    "DET": 657,
+                    "CCONJ": 161,
+                    "NUM": 173,
+                    "PROPN": 824
+                },
+                "num_substantivos": 1646,
+                "num_verbos": 612,
+                "num_preposicoes": 1128
+            },
+            "analise_linguistica": {
+                "num_tokens": 7618,
+                "num_lemas": 7618,
+                "num_dependencias": 7618
+            }
+        },
+        {
+            "id": "1dgG2Qf4MkSoD5hwx6SwPGEzvHjA1Z55_",
+            "nome_arquivo": "doc_21.pdf",
+            "estatisticas": {
+                "num_sentencas": 342,
+                "num_tokens": 8315,
+                "tokens_por_sentenca": 24.31286549707602,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 540
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 385
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 328
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 328
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 257
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 219
+                    },
+                    {
+                        "token": "¸",
+                        "frequencia": 207
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 199
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 184
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 183
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Resnick",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Extending",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "educa-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "tion",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "montessori-inspired",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Proceedings",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "SIGCHI",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "confe-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "rence",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "859–868.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1450,
+                    "VERB": 542,
+                    "ADP": 958,
+                    "ADJ": 667,
+                    "ADV": 83,
+                    "PRON": 71,
+                    "DET": 410,
+                    "CCONJ": 220,
+                    "NUM": 293,
+                    "PROPN": 1726
+                },
+                "num_substantivos": 1450,
+                "num_verbos": 542,
+                "num_preposicoes": 958
+            },
+            "analise_linguistica": {
+                "num_tokens": 8315,
+                "num_lemas": 8315,
+                "num_dependencias": 8315
+            }
+        },
+        {
+            "id": "1lIXTptTKJKQm8sjmX1SEzRW-3hufpNS_",
+            "nome_arquivo": "doc_22.pdf",
+            "estatisticas": {
+                "num_sentencas": 299,
+                "num_tokens": 7189,
+                "tokens_por_sentenca": 24.043478260869566,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 494
+                    },
+                    {
+                        "token": "\n",
+                        "frequencia": 483
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 320
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 239
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 146
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 131
+                    },
+                    {
+                        "token": "que",
+                        "frequencia": 128
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 103
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 100
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 89
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "149",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "103818",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Implementing",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "mechanics",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "web",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "mobile",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "apps",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "O'Reilly",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Media",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Inc.",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1363,
+                    "VERB": 563,
+                    "ADP": 994,
+                    "ADJ": 385,
+                    "ADV": 166,
+                    "PRON": 226,
+                    "DET": 600,
+                    "CCONJ": 186,
+                    "NUM": 151,
+                    "PROPN": 734
+                },
+                "num_substantivos": 1363,
+                "num_verbos": 563,
+                "num_preposicoes": 994
+            },
+            "analise_linguistica": {
+                "num_tokens": 7189,
+                "num_lemas": 7189,
+                "num_dependencias": 7189
+            }
+        },
+        {
+            "id": "1NHPtt3BcxOgzKNo6K7YcECfsr1WWg8_J",
+            "nome_arquivo": "doc_23.pdf",
+            "estatisticas": {
+                "num_sentencas": 172,
+                "num_tokens": 2938,
+                "tokens_por_sentenca": 17.08139534883721,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 567
+                    },
+                    {
+                        "token": "\n",
+                        "frequencia": 222
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 173
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 65
+                    },
+                    {
+                        "token": "Brasileiro",
+                        "frequencia": 60
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 60
+                    },
+                    {
+                        "token": "Informática",
+                        "frequencia": 60
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 60
+                    },
+                    {
+                        "token": "Educação",
+                        "frequencia": 60
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 60
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "livros",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "livro2-matematica_midiasdigitais_didatica",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": ".pdf>.Acessoem:19ago.2024",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Vicari",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "R.M.;Moreira",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "A.F.;Menezes",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "P.F.B.(2018).",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "PensamentoComputacional-RevisãoBibliográﬁca",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "UniversidadeFederaldoRioGrandedoSul",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "RS.Disponívelem:<http://hdl.handle.net/10183/197566>.Acessoem:26jun.2024.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 433,
+                    "VERB": 120,
+                    "ADP": 184,
+                    "ADJ": 173,
+                    "ADV": 39,
+                    "PRON": 3,
+                    "DET": 27,
+                    "CCONJ": 20,
+                    "NUM": 117,
+                    "PROPN": 615
+                },
+                "num_substantivos": 433,
+                "num_verbos": 120,
+                "num_preposicoes": 184
+            },
+            "analise_linguistica": {
+                "num_tokens": 2938,
+                "num_lemas": 2938,
+                "num_dependencias": 2938
+            }
+        },
+        {
+            "id": "1Pl_PRb5JiPcQHvEpU41UJTIDawm5wIPo",
+            "nome_arquivo": "doc_24.pdf",
+            "estatisticas": {
+                "num_sentencas": 288,
+                "num_tokens": 6425,
+                "tokens_por_sentenca": 22.30902777777778,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 467
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 321
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 259
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 257
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 127
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 116
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 114
+                    },
+                    {
+                        "token": "que",
+                        "frequencia": 106
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 106
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 95
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "domínio",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "imóveis",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "laboratório",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "computadores",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "ciência",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "campina",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "técnica",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "No-",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "vatec",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Editora",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1248,
+                    "VERB": 568,
+                    "ADP": 881,
+                    "ADJ": 293,
+                    "ADV": 120,
+                    "PRON": 139,
+                    "DET": 490,
+                    "CCONJ": 107,
+                    "NUM": 230,
+                    "PROPN": 750
+                },
+                "num_substantivos": 1248,
+                "num_verbos": 568,
+                "num_preposicoes": 881
+            },
+            "analise_linguistica": {
+                "num_tokens": 6425,
+                "num_lemas": 6425,
+                "num_dependencias": 6425
+            }
+        },
+        {
+            "id": "1NG-lhZBV3nf7iozy4-eI4rhjPcZGHZsq",
+            "nome_arquivo": "doc_25.pdf",
+            "estatisticas": {
+                "num_sentencas": 237,
+                "num_tokens": 5472,
+                "tokens_por_sentenca": 23.088607594936708,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 307
+                    },
+                    {
+                        "token": "\n",
+                        "frequencia": 296
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 222
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 172
+                    },
+                    {
+                        "token": " ",
+                        "frequencia": 146
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 134
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 95
+                    },
+                    {
+                        "token": " \n",
+                        "frequencia": 94
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 77
+                    },
+                    {
+                        "token": "que",
+                        "frequencia": 67
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Angela",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "V.",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Oswaldo",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "abordagem",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Bibl",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Esc",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "R.",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Ribeirão",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Preto",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "-190615",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1125,
+                    "VERB": 377,
+                    "ADP": 774,
+                    "ADJ": 331,
+                    "ADV": 133,
+                    "PRON": 85,
+                    "DET": 313,
+                    "CCONJ": 159,
+                    "NUM": 154,
+                    "PROPN": 598
+                },
+                "num_substantivos": 1125,
+                "num_verbos": 377,
+                "num_preposicoes": 774
+            },
+            "analise_linguistica": {
+                "num_tokens": 5472,
+                "num_lemas": 5472,
+                "num_dependencias": 5472
+            }
+        },
+        {
+            "id": "1H_7zQVV12wU-c0H-HCyK-SsMWaPgUVKP",
+            "nome_arquivo": "doc_26.pdf",
+            "estatisticas": {
+                "num_sentencas": 243,
+                "num_tokens": 6496,
+                "tokens_por_sentenca": 26.732510288065843,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 485
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 292
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 284
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 174
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 138
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 107
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 102
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 101
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 99
+                    },
+                    {
+                        "token": " ",
+                        "frequencia": 88
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Reflections",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "from",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "mid",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "-career",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "educator",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Troy",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Michigan",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Baker",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Middle",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "School",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1299,
+                    "VERB": 473,
+                    "ADP": 910,
+                    "ADJ": 435,
+                    "ADV": 143,
+                    "PRON": 98,
+                    "DET": 431,
+                    "CCONJ": 168,
+                    "NUM": 162,
+                    "PROPN": 706
+                },
+                "num_substantivos": 1299,
+                "num_verbos": 473,
+                "num_preposicoes": 910
+            },
+            "analise_linguistica": {
+                "num_tokens": 6496,
+                "num_lemas": 6496,
+                "num_dependencias": 6496
+            }
+        },
+        {
+            "id": "1X-LOU4xJ3t3maaTUtl7hLJ4Uzi-kw6kT",
+            "nome_arquivo": "doc_27.pdf",
+            "estatisticas": {
+                "num_sentencas": 393,
+                "num_tokens": 9780,
+                "tokens_por_sentenca": 24.885496183206108,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 717
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 423
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 399
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 324
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 315
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 231
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 199
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 192
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 190
+                    },
+                    {
+                        "token": "em",
+                        "frequencia": 178
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Turing",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Celebration",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "China",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "TURC",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "20",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "9–14",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Metodologias",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "aplicadas",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Jan",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Abr).XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1754,
+                    "VERB": 678,
+                    "ADP": 1269,
+                    "ADJ": 609,
+                    "ADV": 81,
+                    "PRON": 62,
+                    "DET": 528,
+                    "CCONJ": 213,
+                    "NUM": 330,
+                    "PROPN": 2070
+                },
+                "num_substantivos": 1754,
+                "num_verbos": 678,
+                "num_preposicoes": 1269
+            },
+            "analise_linguistica": {
+                "num_tokens": 9780,
+                "num_lemas": 9780,
+                "num_dependencias": 9780
+            }
+        },
+        {
+            "id": "1gWGDD-PORqATDIW_kpXTCknXsrLm1hVi",
+            "nome_arquivo": "doc_28.pdf",
+            "estatisticas": {
+                "num_sentencas": 348,
+                "num_tokens": 8580,
+                "tokens_por_sentenca": 24.655172413793103,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 504
+                    },
+                    {
+                        "token": "\n",
+                        "frequencia": 477
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 312
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 311
+                    },
+                    {
+                        "token": " ",
+                        "frequencia": 231
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 174
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 171
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 152
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 152
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 99
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Systems",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Software",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "192",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Toward",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Renewable",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Assessments",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "https://opencontent.org/blog/archives/4691",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Defining",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "-enabled",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "19",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1421,
+                    "VERB": 528,
+                    "ADP": 1040,
+                    "ADJ": 394,
+                    "ADV": 135,
+                    "PRON": 90,
+                    "DET": 506,
+                    "CCONJ": 199,
+                    "NUM": 321,
+                    "PROPN": 1438
+                },
+                "num_substantivos": 1421,
+                "num_verbos": 528,
+                "num_preposicoes": 1040
+            },
+            "analise_linguistica": {
+                "num_tokens": 8580,
+                "num_lemas": 8580,
+                "num_dependencias": 8580
+            }
+        },
+        {
+            "id": "15cc_iQgVPkAx8foLe__Xtp_RYRnB6aSr",
+            "nome_arquivo": "doc_29.pdf",
+            "estatisticas": {
+                "num_sentencas": 339,
+                "num_tokens": 7471,
+                "tokens_por_sentenca": 22.03834808259587,
+                "top10_tokens": [
+                    {
+                        "token": ",",
+                        "frequencia": 570
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 344
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 300
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 196
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 185
+                    },
+                    {
+                        "token": ")",
+                        "frequencia": 158
+                    },
+                    {
+                        "token": "(",
+                        "frequencia": 150
+                    },
+                    {
+                        "token": "na",
+                        "frequencia": 144
+                    },
+                    {
+                        "token": "Educação",
+                        "frequencia": 99
+                    },
+                    {
+                        "token": "o",
+                        "frequencia": 93
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "self-paced",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "education",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "neural",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "network",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "approach",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Expert",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Systems",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Applications",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "213(A",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "118868",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1216,
+                    "VERB": 494,
+                    "ADP": 1051,
+                    "ADJ": 258,
+                    "ADV": 104,
+                    "PRON": 80,
+                    "DET": 457,
+                    "CCONJ": 191,
+                    "NUM": 362,
+                    "PROPN": 1607
+                },
+                "num_substantivos": 1216,
+                "num_verbos": 494,
+                "num_preposicoes": 1051
+            },
+            "analise_linguistica": {
+                "num_tokens": 7471,
+                "num_lemas": 7471,
+                "num_dependencias": 7471
+            }
+        },
+        {
+            "id": "1zLZxSxO1J7XpztujVAH4wuRClPSQyBvK",
+            "nome_arquivo": "doc_30.pdf",
+            "estatisticas": {
+                "num_sentencas": 295,
+                "num_tokens": 7725,
+                "tokens_por_sentenca": 26.1864406779661,
+                "top10_tokens": [
+                    {
+                        "token": "\n",
+                        "frequencia": 504
+                    },
+                    {
+                        "token": "de",
+                        "frequencia": 326
+                    },
+                    {
+                        "token": "´",
+                        "frequencia": 298
+                    },
+                    {
+                        "token": ",",
+                        "frequencia": 262
+                    },
+                    {
+                        "token": "˜ao",
+                        "frequencia": 257
+                    },
+                    {
+                        "token": "¸",
+                        "frequencia": 233
+                    },
+                    {
+                        "token": ".",
+                        "frequencia": 233
+                    },
+                    {
+                        "token": "a",
+                        "frequencia": 163
+                    },
+                    {
+                        "token": "e",
+                        "frequencia": 135
+                    },
+                    {
+                        "token": "que",
+                        "frequencia": 126
+                    }
+                ],
+                "down10_tokens": [
+                    {
+                        "token": "Reading",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "between",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "lines",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "Student",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "help-seeking",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "un",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "specified",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "behaviors",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "21st",
+                        "frequencia": 1
+                    },
+                    {
+                        "token": "1–6.XIII",
+                        "frequencia": 1
+                    }
+                ],
+                "classes_gramaticais": {
+                    "NOUN": 1515,
+                    "VERB": 658,
+                    "ADP": 1014,
+                    "ADJ": 607,
+                    "ADV": 125,
+                    "PRON": 149,
+                    "DET": 528,
+                    "CCONJ": 155,
+                    "NUM": 206,
+                    "PROPN": 1285
+                },
+                "num_substantivos": 1515,
+                "num_verbos": 658,
+                "num_preposicoes": 1014
+            },
+            "analise_linguistica": {
+                "num_tokens": 7725,
+                "num_lemas": 7725,
+                "num_dependencias": 7725
+            }
+        }
+    ],
+    "estatisticas_consolidadas": {
+        "total_documentos": 30,
+        "total_sentencas": 10069,
+        "total_tokens": 234967,
+        "media_sentencas_por_doc": 335.6333333333333,
+        "media_tokens_por_doc": 7832.233333333334,
+        "total_substantivos": 40571,
+        "total_verbos": 15847,
+        "total_preposicoes": 28732,
+        "top10_tokens_geral": [
+            [
+                ",",
+                30
+            ],
+            [
+                ".",
+                30
+            ],
+            [
+                "de",
+                30
+            ],
+            [
+                "\n",
+                29
+            ],
+            [
+                "e",
+                29
+            ],
+            [
+                ")",
+                25
+            ],
+            [
+                "a",
+                24
+            ],
+            [
+                "(",
+                22
+            ],
+            [
+                "o",
+                16
+            ],
+            [
+                "na",
+                12
+            ]
+        ]
+    },
+    "documentos_com_erro": []
+}
