@@ -19,7 +19,8 @@ Durante a realização do projeto foram realizadas as atividades:
 Objetivo: Gerar estatísticas descritivas do CORPUS (título, autores, filiação, corpo do texto; sem referências). Entregáveis: contagens (total/média) de sentenças e tokens; top/down-10 tokens; número de substantivos, verbos e preposições; análise de dependências; lista de lemas. Finalidade: panorama linguístico do CORPUS.
 
 #### Tarefa “Template JSON para CORPUS”
-Objetivo 
+Objetivo: Inserir o CORPUS de artigos no formato JSON fornecido para uso nas atividades do projeto.
+
 #### Tarefa “Representação Vetorial - One Hot, BoW e TF-IDF ”
 Objetivo: Representar o corpus com One-Hot, BoW e TF-IDF, utilizando um COLAB fornecido. O objetivo é comparar os 10 tokens mais similares para um token de referência em cada representação, analisando como cada técnica mede a similaridade semântica.
 
