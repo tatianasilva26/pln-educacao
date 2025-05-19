@@ -4,7 +4,7 @@ Este projeto foi realizado por meio da disciplina Tópicos em Banco de Dados I, 
 ### Funcionalidades
 
 ### Tecnologias
-[Google Colaboratory](https://colab.research.google.com/github/<nome_de_usuário>/<nome_do_repositório>/blob/<branch>/<caminho_para_o_notebook>.ipynb)
+[Google Colaboratory](https://colab.google/)>/<nome_do_repositório>/blob/<branch>/<caminho_para_o_notebook>.ipynb)
 
 ### Autores
 André Nascimento
