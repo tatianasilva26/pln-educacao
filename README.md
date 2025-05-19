@@ -30,6 +30,7 @@ Objetivo:
 ---
 
 ### 🛠️ Tecnologias
+Para a realização do projeto foram realizadas as ferramentas:
 
 -   **[Google Colaboratory]( https://colab.google/)**
 
